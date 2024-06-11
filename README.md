@@ -34,3 +34,10 @@
 - <img width="26" height="26" alt="LinkedIn" src="https://user-images.githubusercontent.com/101383047/189492379-0165edd5-b873-4df7-b85b-8fe8e624694c.png"> &nbsp; [ramrajpatil](https://www.linkedin.com/in/ramraj-patil-6152a0190/)
 - <img width="26" height="26" alt="portfolio" src="https://user-images.githubusercontent.com/101383047/189492615-0328a147-4f33-432b-96d2-afcd69a20e51.png"> &nbsp; [portfolio-ramrajpatil](https://portfolio-ramrajpatil24.netlify.app/)
 
+
+---
+## 📊 Stats
+
+![Ramraj's  GitHub stats](https://github-readme-stats.vercel.app/api?username=ramrajpatil&theme=tokyonight&show_icons=true)<br/>
+![Ramraj's  GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ramrajpatil&theme=dark&hide_border=true")<br/>
+![](https://activity-graph.herokuapp.com/graph?username=ramrajpatil&amp;hide_border=true&amp;bg_color=151515&amp;color=fff&amp;line=f28a00&amp;point=f28a00)<br/>
