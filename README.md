@@ -7,13 +7,12 @@
 ---
 ## <img width="26" height="26" alt="about me" src="https://user-images.githubusercontent.com/101383047/189491727-7a027ae4-6a8f-41e5-a38b-34cba60a7a0c.png"> About Me
 #### Full Stack Java Developer | Programmer
-* Hi, I'm Ramraj Patil, from Kolhapur, Maharashtra.
+* Hi, I'm Ramraj Patil from Kolhapur, Maharashtra.
 * A dedicated Java Developer with a passion for crafting exceptional software solutions.
 * Got really interested in solving Rubik's cube recently, I don't know.., solving it actually calms my mind knowing that out of so many possibilities there one lies a perfect one and I am in search of it from the moment I take it in my hands.
 * It is actually helping me in solving data structure questions.
 
 ---
-
 ## 🛠️ Tech Stacks
 <p align="left"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp;&nbsp;
@@ -32,6 +31,6 @@
 
 - <img width="26" height="26" alt="email" src="https://user-images.githubusercontent.com/101383047/189492660-adb48aa4-e0c0-417b-9268-db71d99d389f.png"> &nbsp; ramrajpatil24@gmail.com
 
-- <img width="26" height="26" alt="LinkedIn" src="https://user-images.githubusercontent.com/101383047/189492379-0165edd5-b873-4df7-b85b-8fe8e624694c.png"> &nbsp; [ramrajpatil](https://www.linkedin.com/in/ramraj-patil-6152a0190/))
+- <img width="26" height="26" alt="LinkedIn" src="https://user-images.githubusercontent.com/101383047/189492379-0165edd5-b873-4df7-b85b-8fe8e624694c.png"> &nbsp; [ramrajpatil](https://www.linkedin.com/in/ramraj-patil-6152a0190/)
 - <img width="26" height="26" alt="portfolio" src="https://user-images.githubusercontent.com/101383047/189492615-0328a147-4f33-432b-96d2-afcd69a20e51.png"> &nbsp; [portfolio-ramrajpatil](https://portfolio-ramrajpatil24.netlify.app/)
 
