@@ -34,7 +34,7 @@
 - <img width="26" height="26" alt="email" src="https://user-images.githubusercontent.com/101383047/189492660-adb48aa4-e0c0-417b-9268-db71d99d389f.png"> &nbsp; ramrajpatil24@gmail.com
 
 - <img width="26" height="26" alt="LinkedIn" src="https://user-images.githubusercontent.com/101383047/189492379-0165edd5-b873-4df7-b85b-8fe8e624694c.png"> &nbsp; [ramrajpatil](https://www.linkedin.com/in/ramraj-patil-6152a0190/)
-- <img width="26" height="26" alt="portfolio" src="https://user-images.githubusercontent.com/101383047/189492615-0328a147-4f33-432b-96d2-afcd69a20e51.png"> &nbsp; [portfolio-ramrajpatil](https://portfolio-ramrajpatil24.netlify.app/)
+- <img width="26" height="26" alt="portfolio" src="https://user-images.githubusercontent.com/101383047/189492615-0328a147-4f33-432b-96d2-afcd69a20e51.png"> &nbsp; [portfolio-ramrajpatil](https://portfolio-ramraj.vercel.app/)
 
 
 ---
