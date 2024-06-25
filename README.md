@@ -12,7 +12,7 @@
 * Hi, I'm Ramraj Patil from Kolhapur, Maharashtra.
 * A dedicated Java Developer with a passion for crafting exceptional software solutions.
 * Got really interested in solving Rubik's cube recently, I don't know.., solving it actually calms my mind knowing that out of so many possibilities there one lies a perfect one and I am in search of it from the moment I take it in my hands.
-* It is actually helping me in solving data structure questions.
+* It is actually helping me solve data structure questions.
 
 ---
 ## 🛠️ Tech Stacks
